@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkr0408&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkr0408" /> </p>
 
-- 🌱 I’m currently learning **Java and Python**
+- 🌱 I’m currently learning **DSA in Java with the Web Development**  
 
-- 💬 Ask me about **C and HTML**
+- 💬 Ask me about **C, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **ankit75kumar3e@gmail.com**
 
