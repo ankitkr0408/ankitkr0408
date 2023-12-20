@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA in Java and the Web Development**  
 
-- 💬 Ask me about **C, HTML, CSS, JavaScript**
+- 💬 Ask me about **C, HTML, CSS and JavaScript**
 
 - 📫 How to reach me **ankit75kumar3e@gmail.com**
 
