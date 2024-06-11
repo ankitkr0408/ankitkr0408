@@ -1,4 +1,4 @@
-![Banner image](https://drive.google.com/file/d/1I8xWYLYJG05HNFhql2CCTCjAWhILHEFw/view)
+
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A Emerging Programmer in upcoming years.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
