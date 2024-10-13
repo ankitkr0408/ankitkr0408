@@ -4,13 +4,12 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkr0408&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkr0408" /> </p>
 
-- 🌱 I’m currently learning **DSA in Java and the Web Development**  
+- 🌱 I’m currently working on **DSA and AI**  
 
-- 💬 Ask me about **C, HTML, CSS and JavaScript**
+- 💬 Ask me about **Web Dev and AI**
 
-- 📫 How to reach me **ankit75kumar3e@gmail.com**
+- 📫 How to reach me **ankitk22it@student.mes.ac.in**
 
-- ⚡ Fun fact **I think I am a good writer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
